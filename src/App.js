@@ -6,7 +6,7 @@ import ListTollGate from "./components/listTollGate/ListTollGate";
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route path="/" element={<Navigate to="/listEntries" />}/>
             <Route path="/listEntries" element={<ListTollEntries />} />
