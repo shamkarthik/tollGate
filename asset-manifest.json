@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tollGate/static/css/main.26812fde.css",
+    "main.css": "/tollGate/static/css/main.9eb19011.css",
     "main.js": "/tollGate/static/js/main.f5cb8fa6.js",
     "index.html": "/tollGate/index.html",
-    "main.26812fde.css.map": "/tollGate/static/css/main.26812fde.css.map",
+    "main.9eb19011.css.map": "/tollGate/static/css/main.9eb19011.css.map",
     "main.f5cb8fa6.js.map": "/tollGate/static/js/main.f5cb8fa6.js.map"
   },
   "entrypoints": [
-    "static/css/main.26812fde.css",
+    "static/css/main.9eb19011.css",
     "static/js/main.f5cb8fa6.js"
   ]
 }
